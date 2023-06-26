@@ -4,23 +4,7 @@
     <title>Login e Cadastro de Usuário</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
-    <style>
-        .form-container {
-            max-width: 400px;
-            margin: 0 auto;
-            margin-top: 100px;
-        }
-
-        .user-icon {
-            display: flex;
-            justify-content: center;
-            margin-bottom: 20px;
-        }
-
-        .back-button {
-            float: right;
-        }
-    </style>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <div class="container">

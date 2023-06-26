@@ -1,0 +1,53 @@
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.user-icon {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.back-button {
+    float: right;
+}
+.sidebar {
+    background-color: #343a40;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-y: auto;
+    padding-top: 20px;
+}
+
+.sidebar .nav-link {
+    color: #fff;
+    padding: 10px;
+}
+
+.sidebar .nav-link:hover {
+    background-color: #6c757d;
+}
+
+.content {
+    margin-left: 220px;
+    padding: 20px;
+}
+
+.sidebar ul.nav {
+    padding-top: 20px;
+}
+
+.sidebar .nav-link:hover {
+    background-color: #6c757d;
+}
+
+.welcome-message {
+    margin-top: 100px;
+    text-align: center;
+    font-size: 24px;
+    color: #007bff;
+}
